@@ -1,0 +1,27 @@
+Criteria	  Ratings	    Points
+
+A. Define the problem and perform an Exploratory Data Analysis  12/12
+i. You have a very good understanding on the business problem and solution approach. ii. Well done on data overview, sanity checks, univariate, and bivariate analysis including observations 3. All insight-based questions answered well.
+
+B. Data Pre-processing  4/4
+i. Good job on duplicate, missing values and outlier checks with appropriate comments.	
+
+C. Model building - Logistic Regression  9/9
+i. Excellent work on the logistic regression model. ii. Excellent work on detecting multicollinearity and eliminating variables with high p-values. 3. Excellent work interpreting coefficients, and the final model performance comments are satisfactory.	
+
+D. Model Performance evaluation and improvement - Logistic Regression  6/6
+i. Outstanding work on improving the model utilising techniques such as optimal threshold using the roc_auc curve and optimal threshold using the precisionrecall curve. Both outcomes are satisfactory. 2. The model performance has clearly differentiated the results using the techniques mentioned above. Comments are also satisfactory.
+
+E. Model building - Decision Tree  5/5
+i. Excellent work on the decision tree model. ii. The model performance was thoroughly evaluated and comments are satisfactory.
+
+F. Model Performance evaluation and improvement - Decision Tree  10/10
+i. Awesome job for improving the decision tree model using approaches such as pre- and post-pruning. ii. The comments following the pruning are satisfactory iii. Nice job on identifying the decision rules, and your comments on the important features are excellent. iv. The final model comparison results are satisfactory.	
+
+G. Actionable Insights & Recommendations  6/6
+i. Well done on insights and recommendations.	
+
+H. Presentation / Notebook - Overall quality  8/8
+i. The notebook is well structured and commented.	
+
+Points	60/60
